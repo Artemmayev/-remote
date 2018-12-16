@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Darova1
+=======
+Darov
+>>>>>>> eche
  1Gendalf
